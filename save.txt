@@ -1,0 +1,9 @@
+level:20
+xp:3
+explosive:10
+multishot:10
+range:500
+wave:51
+hp:20
+point:0
+fire_rate:10
